@@ -57,7 +57,7 @@ export function SiteFooter({
             GitHub
           </a>
           <a
-            href="https://akramovahror722-coder.github.io/portfolio/"
+            href="https://akramovahror722-coder.github.io/"
             target="_blank"
             rel="noreferrer"
             className={`inline-flex items-center gap-1.5 font-semibold ${accentText}`}

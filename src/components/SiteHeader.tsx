@@ -18,7 +18,7 @@ export function SiteHeader({
   tagline,
   accent,
   icon,
-  portfolioUrl = 'https://akramovahror722-coder.github.io/portfolio/',
+  portfolioUrl = 'https://akramovahror722-coder.github.io/',
 }: SiteHeaderProps) {
   const { lang, setLang, languages } = useLang()
   const { theme, toggle } = useTheme()
